@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Setup</h1>
+<h1>osTicket - Post-Install Configuration</h1>
 This tutorial will go over the post install setup of osTicket. This will require you to complete the prerequisites and install of osTicket. 
 
 <p></p>
